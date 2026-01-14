@@ -1,0 +1,24 @@
+{
+  "videos": [
+    {
+      "id": "051c8167-f8fc-4566-b8ec-588ca01bd4df",
+      "filename": "051c8167-f8fc-4566-b8ec-588ca01bd4df.webm",
+      "originalName": "blob",
+      "size": 626409,
+      "path": "/videos/051c8167-f8fc-4566-b8ec-588ca01bd4df.webm",
+      "uploadedAt": "2026-01-12T18:29:30.294Z",
+      "startTime": "6",
+      "endTime": "10"
+    },
+    {
+      "id": "80d7fbc3-9179-468d-bdeb-450645209829",
+      "filename": "80d7fbc3-9179-468d-bdeb-450645209829.webm",
+      "originalName": "blob",
+      "size": 4510563,
+      "path": "/videos/80d7fbc3-9179-468d-bdeb-450645209829.webm",
+      "uploadedAt": "2026-01-12T18:34:03.484Z",
+      "startTime": "0",
+      "endTime": "0"
+    }
+  ]
+}
